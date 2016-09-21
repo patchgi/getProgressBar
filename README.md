@@ -9,7 +9,7 @@ import getProgressBar
 
 if __name__=="__main__":
     data={
-        "progress":5843,
+        "progress":6048,
 		"parameter":10000
 	  }
 	progressBar=getProgressBar.getProgressBar(data)
