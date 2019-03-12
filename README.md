@@ -1,8 +1,8 @@
 # getProgressBar
 プログレスバーを表示するライブラリ
-##環境
+## 環境
 Python2.7.10
-##Example
+## Example
 
 ```Python2
 import getProgressBar
